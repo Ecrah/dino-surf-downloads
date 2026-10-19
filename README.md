@@ -2,7 +2,7 @@
 
 An illustrated dinosaur learning adventure at [dino.surf](https://dino.surf).
 
-Explore eighteen painted regions, meet sixty dinosaurs, investigate cited fossil evidence, compare metres and feet, and settle into an illustrated listening library. Fifty-eight chapters have Peter narration; ten new creature stories are currently illustrated text.
+Explore eighteen painted regions and 120 open places, meet 150 dinosaurs, investigate cited fossil evidence, compare eligible creatures in metres and feet, and settle into an illustrated listening library. Fifty-eight chapters have Peter narration; the 100 expansion tales are explicitly illustrated text without new recordings.
 
 This repository distributes Windows portable previews and showcase films. The application source and personal journals are not included here.
 
